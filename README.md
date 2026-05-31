@@ -1,5 +1,7 @@
 # Hi 👋, I'm maryam
 
+- 🔭 I'm currently working on **Turning ideas into digital solutions through code and continuous learning.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/maryambarati82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="maryambarati82" height="30" width="40" /></a>
